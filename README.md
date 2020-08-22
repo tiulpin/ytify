@@ -1,5 +1,17 @@
 # ytify
 🎧 Small utility to export YouTube playlist to Spotify – built with [odesli.co](https://odesli.co). No Spotify / YouTube API access required. 
+```
+/*
+ * ------------------------------------------------------------
+ * "THE BEERWARE LICENSE" (Revision 42):
+ * <viktor@tiulp.in> wrote this code. As long as you retain this 
+ * notice, you can do whatever you want with this stuff. If we
+ * meet someday, and you think this stuff is worth it, you can
+ * buy me a beer in return.
+ * ------------------------------------------------------------
+ */
+```
+## How-to
 - Download the utility archive – [https://github.com/tiulpin/ytify/archive/master.zip](https://github.com/tiulpin/ytify/archive/master.zip)
 - Obtain the wanted playlist using [youtube-dl](https://github.com/ytdl-org/youtube-dl/)
 ```bash
