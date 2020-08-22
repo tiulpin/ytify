@@ -1,5 +1,5 @@
 # ytify
-🎧 Small utility to export YouTube playlist to Spotify – built with [odesli.co](https://odesli.co).
+🎧 Small utility to export YouTube playlist to Spotify – built with [odesli.co](https://odesli.co). No Spotify / YouTube API access required. 
 - Download the utility archive – [https://github.com/tiulpin/ytify/archive/master.zip](https://github.com/tiulpin/ytify/archive/master.zip)
 - Obtain the wanted playlist using [youtube-dl](https://github.com/ytdl-org/youtube-dl/)
 ```bash
